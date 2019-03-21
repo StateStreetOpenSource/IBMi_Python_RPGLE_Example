@@ -1,6 +1,6 @@
 '''
 ----------------------------------------------------------------------------------------------------
- Copyright (c) 2018 Don Thierman
+ Copyright (c) 2019 StateStreetOpenSource
  All rights reserved.
 
  Program Name: dbconn.py

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 '''
 ----------------------------------------------------------------------------------------------------
- Copyright (c) 2019 Don Thierman
+ Copyright (c) 2019 StateStreetOpenSource
  All rights reserved.
 
  Program Name: demoEmail.py

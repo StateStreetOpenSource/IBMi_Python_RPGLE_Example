@@ -3,7 +3,7 @@
 # ipyemail.py                                                                                      #
 # This function takes input parameters for email and sends it out through our IBM                  #
 #                                                                                                  #
-#  D. Thierman 2018-08-22                                                                          #
+# Copyright (c) 2019 StateStreetOpenSource                                                       #
 ####################################################################################################
 
 import smtplib

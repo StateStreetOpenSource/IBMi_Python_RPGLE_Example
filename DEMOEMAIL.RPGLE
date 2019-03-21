@@ -2,7 +2,7 @@
 ctl-opt DEBUG bnddir('QC2LE') dftactgrp(*no) actgrp(*caller) option(*SRCSTMT : *NODEBUGIO) GENLVL(10);
 
 //----------------------------------------------------------------------------------------------------
-// Copyright (c) 2019 Don Thierman
+// Copyright (c) 2019 StateStreetOpenSource
 // All rights reserved.
 //
 // Program Name: DEMOEMAIL
