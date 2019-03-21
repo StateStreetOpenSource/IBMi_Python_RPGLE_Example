@@ -4,16 +4,16 @@ Demonstrate a method to run a Python script from an IBMi RPGLE program. This exa
 1)	Create your python program and test it so that it works from the “open source” command line
            See… demoEmail.py and supporting Python scripts… dbconn.py and ipyemail.py
 
-2)	Create a Bash script that does the following
-          Receive parameters from the RPGLE/CLLE program that’s calling this script
-          Adjust the “PATH” so that the open source binaries can be accessed
-          “Activate” the Python virtual environment
-          Using the environment parameter, change your current directory to the IFS folder containing your Python sources
-          Execute your Python script, passing along any needed parameters
-          Deactivate your virtual environment and exit
-          See… demoEmail.sh
+2)	Create a Bash script that does the following...
+          Receive parameters from the RPGLE/CLLE program that’s calling this script.
+          Adjust the “PATH” so that the open source binaries can be accessed.
+          “Activate” the Python virtual environment.
+          Using the environment parameter, change your current directory to the IFS folder containing your Python sources.
+          Execute your Python script, passing along any needed parameters.
+          Deactivate your virtual environment and exit.
+          See… demoEmail.sh.
 
-3)	Create your RPGLE or CLLE program that does the following
+3)	Create your RPGLE or CLLE program that does the following...
 	  Using either QCMDEXC or the ILE C “system” function, execute your Bash program with Qshell (QSH).
 	    This program should determine the environment it’s running in. The environment variable can then be used for the following:
               Ensure the Bash script is run from the intended production or development IFS source folders.
