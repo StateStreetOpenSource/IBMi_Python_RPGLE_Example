@@ -3,7 +3,7 @@ Demonstrate a method to run a Python script from an IBMi RPGLE program. This exa
 
 1)	Ensure you have Python 3.6.x, ReportLab, and ibm-db installed on your IBMi (preferably in a virtual environment). 
            This example was tested with Python 3.6.8, ReportLab (3.5.13) and ibm-db (2.0.5.9). 
-           A requirements.txt file is provided in this project to provide an idea of what the virtual environemnt this example ran under looked like. Much of what is listed is not used or required.
+           A requirements.txt file is provided in this project to show what the virtual environemnt this example ran under looked like. Much of what is listed is not used or required.
 
 2)	Create your python program and test it so that it works from the “open source” command line
            See… demoEmail.py and supporting Python scripts… dbconn.py and ipyemail.py
