@@ -13,7 +13,7 @@ idna==2.8
 itoolkit==1.5.1
 itsdangerous==1.1.0
 Jinja2==2.10
-lxml==4.2.1
+lxml==4.6.5
 MarkupSafe==1.0
 numpy==1.14.2
 pandas==0.22.0
