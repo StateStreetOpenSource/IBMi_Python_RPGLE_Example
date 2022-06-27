@@ -20,7 +20,7 @@ pandas==0.22.0
 Pillow==6.2.0
 python-dateutil==2.7.4
 pytz==2018.4
-reportlab==3.5.13
+reportlab==3.5.55
 requests==2.21.0
 scikit-learn==0.19.1
 scipy==1.0.1
